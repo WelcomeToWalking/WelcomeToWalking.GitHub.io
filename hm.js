@@ -1,6 +1,6 @@
 
 
-    let home = "http://e6fb-2605-b100-e015-9fec-5d4c-f50a-56e3-e679.ngrok.io";
+    let home = "https://e6fb-2605-b100-e015-9fec-5d4c-f50a-56e3-e679.ngrok.io";
 
     function pushHome(data)
     {
